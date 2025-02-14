@@ -42,7 +42,7 @@
 // //         />
 // //         <div className='z-10 mt-[220px] px-8 relative'>
 // //           <h1 className='text-5xl text-white absolute top-[-90px] left-[260px] dancing-script-text font-thin'>For,</h1>
-// //           <h1 className='text-5xl text-[#eeff41] absolute top-[-45px] left-[335px] great-vibes-text font-thin text-shadow-lg shadow-gray-700'>Suhaas</h1>
+// //           <h1 className='text-5xl text-[#eeff41] absolute top-[-45px] left-[335px] great-vibes-text font-thin text-shadow-lg shadow-gray-700'>You</h1>
 // //         </div>
 // //         <div 
 // //           className='w-[100px] h-[100px] absolute top-[50px] left-[590px] border-2 border-[#bf38b2]'
@@ -110,7 +110,7 @@
 //           />
 //           <div className='z-10 mt-[220px] px-8 relative z-1000'>
 //             <h1 className='text-5xl text-white absolute top-[-90px] left-[260px] dancing-script-text font-thin'>For,</h1>
-//             <h1 className='text-5xl text-[#eeff41] absolute top-[-45px] left-[335px] great-vibes-text font-thin text-shadow-lg shadow-gray-700'>Suhaas</h1>
+//             <h1 className='text-5xl text-[#eeff41] absolute top-[-45px] left-[335px] great-vibes-text font-thin text-shadow-lg shadow-gray-700'>You</h1>
 //           </div>
 //           <div 
 //             className='w-[100px] h-[100px] absolute top-[50px] left-[590px] border-2 border-[#bf38b2]'
@@ -290,7 +290,7 @@ const Home = () => {
                     <div className='z-10 mt-[220px] px-8 relative z-1000'>
                         <h1 className='text-5xl text-white absolute top-[-90px] left-[260px] dancing-script-text font-thin'>For,</h1>
                         <h1 className='text-5xl text-[#eeff41] absolute top-[-45px] left-[335px] great-vibes-text font-thin text-shadow-lg shadow-gray-700'>
-                            Suhaas
+                            You
                         </h1>
                     </div>
                     <div
