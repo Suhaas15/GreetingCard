@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.great-vibes-text {
+  font-family: 'Great Vibes', cursive;
+}
+
+.dancing-script-text{
+  font-family: "Dancing Script", serif;
+}
+
+.kaushan-script-text {
+  font-family: "Kaushan Script", serif;
+}
+
+.rochester-regular {
+  font-family: "Rochester", serif;
+}
+
+
+.italianno-regular {
+  font-family: "Italianno", serif;
+}
